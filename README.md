@@ -17,4 +17,4 @@
 	 telefone = models.CharField(max_length=35)
 	 genero = models.CharField(max_length=10)
 
-## Insiro o URL com a porta no Insomnia como HTTPS new request, e utilizo os 
+## Insiro o URL com a porta no Insomnia como HTTPS new request, e utilizo os operadores
